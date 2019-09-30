@@ -1,0 +1,27 @@
+body {
+    background: #E4E4E4;
+}
+
+.table thead th {
+    
+   border-bottom: 2px solid #9F9F9F; 
+}  
+ 
+.table td, .table th {
+ 
+    border-top: 2px solid #B2B2B2;
+    border-bottom: 2px solid #B2B2B2;
+}
+
+h1 {
+    margin: 25px 0 15px 0;
+}
+    
+.btn-success {
+    margin-bottom: 10px;
+}
+
+.table th {
+    background: #D5D5D5;
+}
+    
